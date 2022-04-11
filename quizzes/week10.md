@@ -4,17 +4,17 @@
 **1.** What is the purpose of a `namespace`?
 <!-- enter you answer in the space below -->
 ```
-
+Namespaces are used to organize code into logical groups and to prevent name collisions that can occur, especially when your code includes multiple files or libraries
 ```
 **2.** What is the difference between a `class` and a `struct`?
 <!-- enter you answer in the space below -->
 ```
-
+Structs are value types whereas Classes are reference types.
 ```
 **3.** What is the method that returns an instance of a class, yet it has no return type?
 <!-- enter you answer in the space below -->
 ```
-
+void
 ```
 ## Example 1
 ```c#
